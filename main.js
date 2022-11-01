@@ -22,3 +22,9 @@ function division(){
     let r = parseInt(n1) / parseInt(n2);
     let n3 = document.getElementById('txt-3').value = r;
 }
+function exponential(){
+    let n1 = document.getElementById('txt-1').value;
+    let n2 = document.getElementById('txt-2').value;
+    let r = parseInt(n1) ** parseInt(n2);
+    let n3 = document.getElementById('txt-3').value = r;
+}
