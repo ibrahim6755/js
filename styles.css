@@ -1,0 +1,19 @@
+input{
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+}
+.div{
+    width: 30%;
+    background-color: grey;
+    padding: 12px;
+}
+button{
+    border: 0px;
+    margin: 0 12px;
+    padding:0 10px;
+    background-color: black;
+    color: #fff;
+    font-size:xx-large;
+    text-align: center;
+}
